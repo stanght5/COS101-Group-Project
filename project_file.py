@@ -20,10 +20,8 @@ def interpret_bmi(bmi):
     else:
         return "Obese"
 
-
 window = tk.Tk()
 window.title("BMI Calculator")
-
 
 weight_label = tk.Label(window, text="Enter Weight (kg):")
 weight_label.grid(row=0, column=0, padx=10, pady=10)
@@ -45,4 +43,5 @@ result_label.grid(row=3, column=0, columnspan=2, pady=10)
 
 interpretation_label = tk.Label(window, text="")
 interpretation_label.grid(row=4, column=0, columnspan=2, pady=10)
+
 window.mainloop()
