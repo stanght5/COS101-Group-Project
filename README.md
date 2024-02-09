@@ -22,4 +22,5 @@ It is to determine categories that could lead to health problems like obesity an
 ![Screenshot (10)](https://github.com/stanght5/COS101-Group-Project/assets/150624458/39a97d59-e57f-4813-97cc-fa5a0a5cefc3)
 ![Screenshot (11)](https://github.com/stanght5/COS101-Group-Project/assets/150624458/da4f4864-6dde-4162-8948-8d3ee5c1cb2f)
 ![Screenshot (12)](https://github.com/stanght5/COS101-Group-Project/assets/150624458/d062eaa6-f986-40de-9040-c03014bcda46)
-
+![Screenshot (13)](https://github.com/stanght5/COS101-Group-Project/assets/158083866/28627b7f-bca9-4a0e-8dcb-e641657b43f4)
+![Screenshot (14)](https://github.com/stanght5/COS101-Group-Project/assets/158083866/129522be-57a8-4874-a17d-acf4da3cfe64)
