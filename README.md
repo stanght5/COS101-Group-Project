@@ -6,8 +6,5 @@ It is to determine categories that could lead to health problems like obesity an
 ![BMI Calculator 2_5_2024 11_31_12 PM](https://github.com/stanght5/COS101-Group-Project/assets/158083866/16e35616-2135-49cc-a995-6d20e26f9640)
 ![BMI Calculator 2_5_2024 11_31_47 PM](https://github.com/stanght5/COS101-Group-Project/assets/158083866/114a6e06-fce7-40ec-9316-2e1314b71061)
 Project/files/14221207/bmi.flowchart.visio.pdf)
-![Uploading flow1.png…]()
-![Uploading flow2.png…]()
-![Uploading flow3.png…]()
-![Uploading flow4.png…]()
+
 
