@@ -11,4 +11,5 @@ It is to determine categories that could lead to health problems like obesity an
 ![flow2](https://github.com/stanght5/COS101-Group-Project/assets/159084466/9c25b146-20a8-4978-a37f-fb3735a74d02)
 ![flow3](https://github.com/stanght5/COS101-Group-Project/assets/159084466/2aef036b-435a-4ce2-8a43-0efe72105682)
 ![flow4](https://github.com/stanght5/COS101-Group-Project/assets/159084466/07dc9102-5c25-4e4c-8ca1-7cdddbeb919b)
+[bmi flowchart visio.pdf](https://github.com/stanght5/COS101-Group-Project/files/14225866/bmi.flowchart.visio.pdf)
 
