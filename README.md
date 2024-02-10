@@ -2,7 +2,8 @@ This software created is  a BMI calculator whci is a reliable calcu;lator using 
 It is to determine categories that could lead to health problems like obesity and heart failures. BY: Goteng Kenrit Crystal
 ![Screenshot 2024-02-09 121732](https://github.com/stanght5/COS101-Group-Project/assets/158083866/49a4b5f2-e923-4a83-8af4-a26abbf4efb1)
 ![Screenshot 2024-02-09 121607](https://github.com/stanght5/COS101-Group-Project/assets/158083866/8a485efa-7f6e-4b41-adeb-4d9fb92baa0c)
-
+![BMI Calculator 2_5_2024 11_31_47 PM](https://github.com/stanght5/COS101-Group-Project/assets/150553219/92c7e449-7256-4ea1-ba57-495a62593841)
+![BMI Calculator 2_5_2024 11_31_12 PM](https://github.com/stanght5/COS101-Group-Project/assets/150553219/b69f443c-e476-469d-9d0b-a627e13f404d)
 [bmi flowchart visio.pdf](https://github.com/stanght5/COS101-Group-Project/files/14221207/bmi.flowchart.visio.pdf)
 [BMI Calculator Project.pptx](https://github.com/stanght5/COS101-Group-Project/files/14221708/BMI.Calculator.Project.pptx)
 ![flow1](https://github.com/stanght5/COS101-Group-Project/assets/159084466/4cb6191b-d042-4002-8af5-f94ff505f9b8)
